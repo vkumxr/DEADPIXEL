@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=DEADPIXEL;Phishing+Simulation+Research+Toolkit;Cloudflare+%2B+Ngrok+Support;Linux+%7C+Kali+%7C+WSL2" />
 
 </div>
+<div align="center">
 
 ```text
 ██████╗ ███████╗ █████╗ ██████╗ ██████╗ ██╗██╗  ██╗███████╗██╗     
