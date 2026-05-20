@@ -1,91 +1,59 @@
 <div align="center">
 
-# ██████╗ ███████╗ █████╗ ██████╗ ██████╗ ██╗██╗  ██╗███████╗██╗     
-# ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██║╚██╗██╔╝██╔════╝██║     
-# ██║  ██║█████╗  ███████║██║  ██║██████╔╝██║ ╚███╔╝ █████╗  ██║     
-# ██║  ██║██╔══╝  ██╔══██║██║  ██║██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║     
-# ██████╔╝███████╗██║  ██║██████╔╝██║     ██║██╔╝ ██╗███████╗███████╗
-# ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00FF00&center=true&vCenter=true&width=700&lines=DEADPIXEL;Phishing+Simulation+Toolkit;Cloudflare+%2B+Ngrok+Support;Linux+%7C+Kali+%7C+WSL2" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00FF00&center=true&vCenter=true&width=700&lines=Lightweight+Phishing+Simulation+Toolkit;Cloudflare+%2B+Ngrok+Tunnel+Support;Built+For+Cybersecurity+Awareness;Linux+%7C+Kali+%7C+WSL2+Supported" />
+<br>
 
-<img src="https://img.shields.io/badge/Platform-Linux-black?style=for-the-badge&logo=linux">
-<img src="https://img.shields.io/badge/Bash-Script-00ff00?style=for-the-badge&logo=gnu-bash">
-<img src="https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux-Compatible-black?style=flat-square&logo=linux">
+<img src="https://img.shields.io/badge/Bash-Script-00ff00?style=flat-square&logo=gnubash">
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
 
 </div>
 
 ---
 
-# ⚠️ DISCLAIMER
+## Overview
 
-DEADPIXEL is intended strictly for:
+DEADPIXEL is a lightweight phishing simulation toolkit designed for:
 
-- Cybersecurity education
-- Awareness training
-- Authorized red team simulations
-- Local testing environments
+- Security awareness demonstrations
+- Red team simulations
+- Local phishing template testing
+- Tunnel-based deployment experiments
 
-Do **NOT** use this project against targets without explicit permission.
+Supports Cloudflare Tunnel and Ngrok integration directly from the terminal.
 
 ---
 
-# ✨ FEATURES
+## Features
 
-- Multiple phishing-style templates
+- Multiple phishing templates
 - Cloudflare Tunnel support
 - Ngrok support
-- Automated tunnel generation
-- Lightweight bash-based interface
+- Lightweight bash interface
 - Fast deployment
 - WSL compatible
 
 ---
 
-# ⚡ INSTALLATION
-
-## Debian / Ubuntu / Kali / WSL
+## Installation
 
 ```bash
 sudo apt update
 sudo apt install git curl wget unzip php -y
-```
 
-Clone the repository:
-
-```bash
 git clone https://github.com/vkumxr/DEADPIXEL.git
-```
 
-Move into the directory:
-
-```bash
 cd DEADPIXEL
-```
 
-Make executable:
-
-```bash
 chmod +x deadpixel.sh
-```
 
-Run:
-
-```bash
 ./deadpixel.sh
 ```
 
 ---
 
-# 🌐 TUNNEL OPTIONS
-
-- Ngrok
-- Cloudflare Tunnel
-
----
-
-# 🎭 AVAILABLE TEMPLATES
+## Templates
 
 - Festival Wishing
 - Live Youtube TV
@@ -93,7 +61,7 @@ Run:
 
 ---
 
-# 🖥️ TESTED ON
+## Tested On
 
 - Kali Linux
 - Debian
@@ -102,45 +70,16 @@ Run:
 
 ---
 
-# 📁 PROJECT STRUCTURE
+## Disclaimer
 
-```bash
-DEADPIXEL/
-├── deadpixel.sh
-├── templates/
-├── sites/
-├── assets/
-└── README.md
-```
+This project is strictly for educational and authorized security testing purposes.
+
+The author is not responsible for misuse.
 
 ---
 
-# 🚀 NOTES
+## Author
 
-- Internet connection required
-- Cloudflare Tunnel recommended
-- Install missing dependencies manually if required
+Vishwa Kumar
 
----
-
-# 🤝 CONTRIBUTING
-
-Pull requests and improvements are welcome.
-
----
-
-<div align="center">
-
-## 👨‍💻 AUTHOR
-
-### Vishwa Kumar
-
-<a href="https://github.com/vkumxr">
-<img src="https://img.shields.io/badge/GitHub-vkumxr-00ff00?style=for-the-badge&logo=github">
-</a>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
-
-</div>
+GitHub: https://github.com/vkumxr
