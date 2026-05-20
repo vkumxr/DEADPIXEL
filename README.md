@@ -13,7 +13,7 @@
 ██████╔╝███████╗██║  ██║██████╔╝██║     ██║██╔╝ ██╗███████╗███████╗
 ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
-
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF003C&center=true&vCenter=true&width=850&lines=Phishing+Simulation+Research+Toolkit;Security+Awareness+Testing+Framework;Browser+Permission+Analysis+Lab;Controlled+Cybersecurity+Demonstration+Environment" />
